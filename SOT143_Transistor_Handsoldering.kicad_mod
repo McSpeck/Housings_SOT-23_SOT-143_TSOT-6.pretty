@@ -1,13 +1,13 @@
-(module SOT143_Transistor_Handsoldering_26Jul2012 (layer F.Cu)
+(module SOT143_Transistor_Handsoldering (layer F.Cu)
   (at 0 0)
   (descr "SOT143, Transistor; Handsoldering,")
   (tags "SOT143, Transistor, Handsoldering,")
   (attr smd)
-  (fp_text reference T (at -0.06096 -4.72948) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference SOT143_Transistor_Handsoldering (at -0.06096 -4.72948) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SOT143_Transistor_Handsoldering_26Jul2012 (at -0.17018 5.97916) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.17018 5.97916) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.8796 2.31902) (end -1.8796 3.70078) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.8796 3.70078) (end -1.29032 3.69062) (layer F.SilkS) (width 0.15))

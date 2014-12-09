@@ -1,13 +1,13 @@
-(module SOT143R_Diode_Reverse_Handsoldering_26Jul2012 (layer F.Cu)
+(module SOT143R_Diode_Reverse_Handsoldering (layer F.Cu)
   (at 0 0)
   (descr "SOT143R, Diode, Reverse, Handsoldering,")
   (tags "SOT143, Diode, Reverse, Handsoldering,")
   (attr smd)
-  (fp_text reference D (at -0.06096 -4.72948) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference SOT143R_Diode_Reverse_Handsoldering (at -0.06096 -4.72948) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SOT143R_Diode_Reverse_Handsoldering_26Jul2012 (at -0.17018 5.97916) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.17018 5.97916) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.84912 2.88798) (end 1.84912 3.69824) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.84912 3.69824) (end 1.27 3.69824) (layer F.SilkS) (width 0.15))
