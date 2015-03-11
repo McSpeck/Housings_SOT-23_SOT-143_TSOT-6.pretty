@@ -1,4 +1,4 @@
-(module TSOT-6-MK06A-Housing_Handsoldering (layer F.Cu) (tedit 54E9291B)
+(module TSOT-6-MK06A_Handsoldering (layer F.Cu) (tedit 54E9291B)
   (descr "TSOP-6 MK06A housing 6pin")
   (attr smd)
   (fp_text reference REF** (at -0.07112 -4.35102) (layer F.SilkS)
