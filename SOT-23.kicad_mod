@@ -23,6 +23,6 @@
   (model Housings_SOT-23_SOT-143_TSOT-6.3dshapes/SOT-23.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
